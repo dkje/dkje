@@ -25,7 +25,7 @@
 I'm Kim Jung Eun,<br/> a junior developer who likes to learn new technologies<br/>and likes projects together😀
 
 📄 You can see my resume and portfolio [here!](https://docs.google.com/document/d/1ZZJ7sfESQVuXIK8TmFmP2PeCmQo6SljwNM3X95RU5iY/edit?usp=sharing)<br/>
-📧 If you want to contact me, please send me an [email](developer.kje@gmail.com)<br/>
+📧 If you have any questions about me, please email me at developer.kje@gmail.com<br/>
 📕 If you're curious about me, I recommend you look at my [blog](https://dkje.github.io/)<br/>
 
 </div>
