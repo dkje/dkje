@@ -2,7 +2,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Activated_React_Developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Activated_React_Developer&fontSize=50)
  
 ![React](https://img.shields.io/badge/React-61DAEB?style=flat-square&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
