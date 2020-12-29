@@ -1,6 +1,7 @@
 <div align="center">
 
 <br/>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ReactDeveloper&fontSize=90)
  
 ![React](https://img.shields.io/badge/React-61DAEB?style=flat-square&logo=React&logoColor=white)
