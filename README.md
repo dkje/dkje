@@ -1,8 +1,8 @@
 <div align="center">
 
 <br/>
-<b> ## < ReactDeveloper variant="act!" /> </b>
-  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=<_ReactDeveloper_variant="act!"_/>&fontSize=90)
+ 
 ![React](https://img.shields.io/badge/React-61DAEB?style=flat-square&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
